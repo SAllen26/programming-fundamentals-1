@@ -1,2 +1,5 @@
-# programming-fundamentals-1
-Repository for Programming Fundamentals I assignments
+Programming Fundamentals I
+
+Name: Seth Allen
+Course: Programming Fundamentals I
+Semester: Spring 2026
